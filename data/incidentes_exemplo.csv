@@ -1,0 +1,6 @@
+data_abertura,severidade,status,data_resolucao
+2026-05-01T09:00:00Z,Crítica,resolvido,2026-05-01T12:00:00Z
+2026-05-01T11:00:00Z,Alta,resolvido,2026-05-02T10:00:00Z
+2026-05-02T10:00:00Z,Média,em_tratamento,
+2026-05-03T08:30:00Z,Crítica,resolvido,2026-05-03T09:10:00Z
+2026-05-03T15:20:00Z,Baixa,falso_positivo,2026-05-04T10:00:00Z
