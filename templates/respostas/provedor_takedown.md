@@ -1,14 +1,14 @@
-# Template — Notificação para Provedor/Registrar (Takedown)
+# Modelo — Notificação para Provedor/Registrar (Remoção)
 
-Subject: Urgent takedown request – phishing / trademark abuse
+Assunto: Solicitação urgente de remoção — fraude e uso indevido de marca
 
-We request urgent review and takedown of the resource below due to phishing and brand impersonation.
+Solicitamos análise e remoção urgente do recurso abaixo por indícios de fraude e uso indevido de marca.
 
-- Reported URL:
-- Domain:
-- Detection timestamp (UTC):
-- Abuse type: phishing / impersonation
-- Evidence:
-- Affected brand: Vortx Grafeno
+- URL reportada:
+- Domínio:
+- Data/hora da detecção (UTC):
+- Tipo de abuso: phishing / impersonação
+- Evidências:
+- Marca afetada: Vortx Grafeno
 
-Please confirm receipt and share the case/reference number.
+Por favor, confirmem o recebimento e informem o número de protocolo do caso.

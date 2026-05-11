@@ -1,6 +1,6 @@
-# Dashboard de Volume, MTTR e Taxa de Remoção
+# Painel de Volume, MTTR e Taxa de Remoção
 
-Este dashboard é gerado pelo script `scripts/gerar_dashboard.py` a partir do arquivo CSV `data/incidentes_exemplo.csv`.
+Este painel é gerado pelo arquivo `scripts/gerar_dashboard.py` a partir da planilha CSV `data/incidentes_exemplo.csv`.
 
 ## Como gerar
 ```bash
